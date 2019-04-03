@@ -1,0 +1,9 @@
+.video{
+    display: inline-block;
+    width: 130px;
+    margin: 5px;
+    border: 1px solid blue;
+}
+.video img{
+    height: 90px;
+}

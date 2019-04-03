@@ -1,0 +1,31 @@
+.headerdiv{
+    height: 90px;
+    width:80%;
+    margin: auto; 
+    background-color: darkslategray; 
+    border-radius:10px; 
+    
+}
+.headerdiv ul>li{
+    float: left;
+    
+    margin: 20px;
+    list-style: none;
+    
+}
+.headerdiv ul>li a{
+    text-decoration: none;
+    color: wheat;
+}
+.headerdiv ul>li a:hover{
+    color: white;
+    background-color: black;
+}
+/* #drop{
+    display: none;
+    
+}
+
+#drop-menu:hover > .drop{
+    
+  } */
