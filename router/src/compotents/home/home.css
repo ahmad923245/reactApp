@@ -1,0 +1,12 @@
+.header{
+    height: 100px;
+    width: 199vh;
+    background-color: aquamarine;
+    margin: auto;
+    margin-top:10px;
+}
+.header a{
+    padding: 10px;
+
+    margin: 10px;
+}

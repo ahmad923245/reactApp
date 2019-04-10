@@ -1,20 +1,23 @@
 import React, { Component } from 'react'
-
+import {BrowserRouter,Route,Link} from 'react-router-dom'
+import ContactUs from './contactus'
 export default class Header extends Component {
+  state={
+
+  }
+
+  constructor(){
+    super();
+  }
+  
+
   render() {
     return (
-      <div>
-        <button>Click me</button>
-      </div>
+     <div>
+
+
+     </div>
     )
   }
 }
- class half extends Component {
-  render() {
-    return (
-      <div>
-        <h1>jheloo;j;klj </h1>
-      </div>
-    )
-  }
-}
+ 

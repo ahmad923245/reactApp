@@ -18,7 +18,6 @@ export default class Login extends Component {
       
     })
   }
-  
 
   render() {
 
@@ -51,6 +50,7 @@ export default class Login extends Component {
 
 
         <Header/>
+        <button onClick={this.state}>On Click</button>
        
     </div>
 
